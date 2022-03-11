@@ -1,3 +1,7 @@
+body {
+    background-color: rgba(150, 150, 150, 0.541);
+}
+
 header {
     height: 150px;
     border: 3px solid black;
@@ -46,17 +50,17 @@ header {
     padding-top: 30px;
 }
 
-.container h1 {
+h1 {
     padding-top: 30px;
     font-size: 50px;
     background-color: brown;
     color: bisque;
 }
 
-.container h2 {
+h2 {
     color: snow;
 }
 
-.container header {
+header {
     background-color: brown;
 }
